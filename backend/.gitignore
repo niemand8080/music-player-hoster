@@ -3,3 +3,8 @@
 
 # env example
 !.env.example
+
+# macOS system files
+.DS_Store
+._.DS_Store
+._*
